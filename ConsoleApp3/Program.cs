@@ -10,7 +10,8 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            //kodlama
+            //kodlama 1.2
+            Console.Write("something");
         }
     }
 }
