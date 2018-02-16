@@ -12,6 +12,8 @@ namespace ConsoleApp3
         {
             //kodlama 1.2
             Console.Write("something");
+
+            //master branch yenilendi
         }
     }
 }
